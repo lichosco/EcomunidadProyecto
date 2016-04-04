@@ -1,0 +1,83 @@
+/* Inserta tu codigo aqui */
+header
+{
+	margin:0 auto;
+}
+.logo
+{
+	width: 100px;
+	height: 100px;
+}
+
+/*ul  
+{
+	
+	float:right;
+	position: relative;
+	margin:0;
+	padding:0;
+}*/
+
+.menu ul 
+{
+	list-style-type: none;
+	padding-top: 34px;
+	white-space: nowrap;
+	top:15px;
+	position:relative;
+	right:5px;
+	background-image:url("img/semilla.jpg");
+}
+
+
+
+ul li
+{
+	display:inline-block;
+	border-right:1px solid black;
+	padding-right:30px;
+	padding-left:30px;
+	top:10px;
+}
+
+section
+{
+
+	background-image:url("img/semilla.jpg");
+	background-repeat: no-repeat;
+	margin: 0 auto;
+
+	
+}
+.semillabckg 
+{
+	
+	background-image:url("img/semilla.jpg");
+	background-repeat: no-repeat;
+	padding-top: 10px;
+}
+
+.text-t1
+{
+	position:relative;
+	bottom:25px;
+	padding-top:80px;
+	padding-bottom: 80px;
+}
+
+ .mision{
+	width:150px;
+	height:150px;
+	position:relative;
+	left:20px;
+}
+
+.vison{
+	bottom:170px;
+	position:relative;
+
+}
+.semillabckgrn
+{
+	box-sizing:content-box;
+}
